@@ -1,4 +1,4 @@
-# 📅 Semana 1 - [Lunes 02 Febrero-Viernes 06 Febrero]
+# 📅 Día 1 - [Varios días primera semana]
 
 ## 🎯 Lo que hemos visto esta semana
 
@@ -46,3 +46,32 @@
 ---
 
 **Siguiente paso:** Empezar SAT-01 Atlas
+
+--- 
+
+# 🎯 EJERCICIO 3:  Investigación guiada
+
+## 🔍 Parte 1: Explora estos comandos
+
+PS C:\Users\apuig\Desktop\R-CAMP DATANALIST\APUNTES\bootcamp-apuntes\semana-01> **git log --oneline**
+
+*3c491f9 (HEAD -> main, origin/main, origin/HEAD) Edit first week notes*
+
+*8a6e591 Add first week Summary*
+
+*42dcac1 Initial commit*
+
+
+PS C:\Users\apuig\Desktop\R-CAMP DATANALIST\APUNTES\bootcamp-apuntes\semana-01> **git remote -v***
+
+*origin  https://github.com/ArantxaPuig/bootcamp-apuntes.git (fetch)*
+
+*origin  https://github.com/ArantxaPuig/bootcamp-apuntes.git (push)*
+
+PS C:\Users\apuig\Desktop\R-CAMP DATANALIST\APUNTES\bootcamp-apuntes\semana-01> **git branch**
+
+"* main"
+
+### Estamos en la Rama Main (Rama pricnipal)
+
+## 🔍 Parte 2: Preguntas de investigación
