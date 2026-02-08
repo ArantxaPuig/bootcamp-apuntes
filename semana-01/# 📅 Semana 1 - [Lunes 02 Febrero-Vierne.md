@@ -1,6 +1,6 @@
 # 📅 Semana 1 - [Lunes 02 Febrero-Viernes 06 Febrero]
 
-## 🎯 Lo que hemos visto hoy
+## 🎯 Lo que hemos visto esta semana
 
 ### Mañana
 - Dinámica: Gartic Phone (sobre distorsión de información)
